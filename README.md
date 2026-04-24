@@ -134,5 +134,5 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF4ZzR6bmZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/A6GstfH-P_4qM?cid=790b7611j363s1hvx6h0980r75w4n11r7i8i51w34i5z4y1z&rid=giphy.gif" width="300" alt="Uma Musume Win" />
+  <img src="https://media.giphy.com/media/A6GstfH-P_4qM/giphy.gif" width="300" alt="Uma Musume Win" />
 </div>
