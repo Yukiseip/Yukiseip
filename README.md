@@ -44,7 +44,7 @@
 **Engineer with solid experience in the end-to-end data lifecycle:** from ingestion via ETL Pipelines to the implementation of **RAG (Retrieval-Augmented Generation)** systems and Machine Learning models. I specialize in building modern, secure, and scalable applications that integrate AI for process optimization. My goal is to create technology that scales with the same speed and power as a racer in the final stretch.
 
 <p align="center">
-  <img src="apertura.gif" width="220" alt="Work Divider" />
+  <img src="about.gif" width="220" alt="Work Divider" />
 </p>
 
 <details open>
