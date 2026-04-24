@@ -131,8 +131,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukiseip&layout=compact&theme=tokyonight" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/A6GstfH-P_4qM/giphy.gif" width="300" alt="Uma Musume Win" />
-</div>
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF4ZzR6bmZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/A6GstfH-P_4qM/giphy.gif" width="300" />
+</p>
