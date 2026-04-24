@@ -28,7 +28,7 @@
   <br><br>
 
   <p align="center">
-    <img src="apertura2.gif" width="100%" alt="Opening Banner" />
+    <img src="division.gif" width="100%" alt="Opening Banner" />
   </p>
 
 </div>
@@ -101,9 +101,6 @@
 
 #### 🌸 [Komorebi Portfolio](https://github.com/Yukiseip/-Komorebi-Portfolio-Zen-Tech-Architecture) - Zen-Tech Architecture
 > Personal ecosystem with dual-theme design inspired by Sakura and Neon aesthetics.
-<p align="right">
-  <img src="division.gif" width="100" />
-</p>
 
 **Key Features:**
 * 🎭 **Dual Theme:** Dynamic switching between Zen (Day) and Cyberpunk (Night) modes.
