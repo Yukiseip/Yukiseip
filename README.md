@@ -131,6 +131,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukiseip&layout=compact&theme=tokyonight" />
 </div>
 
-<p align="center">
-  <img src="Oguri.gif" width="400">
-</p>
+<br>
+
+<div align="center">
+  <img src="Oguri.gif" />
+</div>
