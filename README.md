@@ -132,5 +132,5 @@
 </div>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF4ZzR6bmZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/A6GstfH-P_4qM/giphy.gif" width="300" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0410205b-5f01-42c2-9b55-d3022d44f58a/dkbckfo-32e7aa74-776c-485b-97a3-f0d81147871c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wNDEwMjA1Yi01ZjAxLTQyYzItOWI1NS1kMzAyMmQ0NGY1OGEvZGtiY2tmby0zMmU3YWE3NC03NzZjLTQ4NWItOTdhMy1mMGQ4MTE0Nzg3MWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1nQaVkhqle8xCE2CcjSRMCBW1rICXxdrnN8hiSrkezg" width="400" alt="Uma Musume Win" />
 </p>
