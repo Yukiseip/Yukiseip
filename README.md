@@ -71,6 +71,7 @@
 
 ## 🛠️ Tech Stack
 
+**Data & AI (The Core)**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) ![ScikitLearn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn) ![Model_Development](https://img.shields.io/badge/-Model_Development-blue?style=flat) ![LLM](https://img.shields.io/badge/-LLM_Integration-551155?style=flat) ![RAG](https://img.shields.io/badge/-RAG-orange?style=flat) ![ETL](https://img.shields.io/badge/-ETL_Pipelines-8CAAE6?style=flat)
 
 <br>
