@@ -145,6 +145,56 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukiseip&layout=compact&theme=tokyonight" />
 </div>
 
+---
+
+## 🏆 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yukiseip&theme=tokyonight" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yukiseip&theme=tokyonight" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📫 Contact & Collaboration
+
+<p align="center">
+  <b>Always open to new opportunities, collaborations, and technological challenges.</b>
+</p>
+
+<div align="center">
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACTO-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/francisco-calvo-rodriguez-50ba66401/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Yukiseip-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://yukisei-systems.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+### 🤝 Areas of Interest for Collaboration
+* 💻 **Full Stack Web Development** projects.
+* 🔐 **Cybersecurity & Pentesting** systems.
+* 🏠 **IoT & Home Automation** applications.
+* ⚙️ **Process Automation** (AI & Data).
+* ⚡ **Real-time Applications**.
+* 🌐 **Open Source** projects.
+
+<br>
+
+<p align="center">
+  <i>"Technology is best when it brings people together"</i> - Matt Mullenweg
+</p>
+
+<p align="center">
+  ⭐ <b>If you like my work, don't forget to star my repositories!</b> ⭐
+</p>
+
 <br>
 
 <div align="center">
