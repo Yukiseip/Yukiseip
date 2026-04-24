@@ -83,11 +83,44 @@
 
 ---
 
-## 📂 Proyectos Destacados
+### 🚀 Proyectos Destacados (Estilo Imagen 2)
 
-* [**Komorebi Portfolio**](https://github.com/Yukiseip/-Komorebi-Portfolio-Zen-Tech-Architecture): Mi ecosistema personal con estética Zen-Cyberpunk.
-* [**Dynamic Pricing System**](https://github.com/Yukiseip/Dynami-Pricing-System): Ingeniería de precios en tiempo real con pipelines de datos.
-* [**SaludMX Crónicas**](https://github.com/Yukiseip/SaludMX-Cronicas): Visualización masiva de datos sobre salud pública en México.
+#### 🌸 [Komorebi Portfolio](https://github.com/Yukiseip/-Komorebi-Portfolio-Zen-Tech-Architecture) - Zen-Tech Architecture
+> Ecosistema personal con diseño dual-theme inspirado en la estética Sakura y Neon.
+
+**Características principales:**
+* 🎭 **Dual Theme:** Cambio dinámico entre modo Zen (día) y Cyberpunk (noche).
+* ⌨️ **Typewriter Engine:** Sistema de diálogo estilo RPG con velocidad ajustable.
+* 🤖 **AI Assistant:** Integración nativa con Gemini 2.5 Flash para asistencia al visitante.
+* 📱 **Responsive:** Optimización completa para cualquier dispositivo.
+
+**Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+---
+
+#### 📈 [Dynamic Pricing System](https://github.com/Yukiseip/Dynami-Pricing-System) - Pricing Engine & Data Pipeline
+> Sistema end-to-end de ingeniería de datos para la optimización de precios en tiempo real.
+
+**Características principales:**
+* ⚙️ **Orquestación:** Pipeline robusto gestionado con Apache Airflow.
+* 🔄 **ETL Automático:** Procesamiento de datos crudos mediante dbt y SQL.
+* 🧠 **Pricing Logic:** Motor de reglas inteligente para ajuste dinámico de costos.
+* 🐳 **Infraestructura:** Despliegue contenerizado con Docker Compose.
+
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+#### 🏥 [SaludMX Crónicas](https://github.com/Yukiseip/SaludMX-Cronicas) - Data Visualization Dashboard
+> Dashboard profesional para el análisis de mortalidad por enfermedades crónicas en México.
+
+**Características principales:**
+* 📉 **Visualización:** Gráficos dinámicos con Plotly para tendencias de salud.
+* ⚡ **Fast Analytics:** Motor de consultas ultrarrápido utilizando DuckDB.
+* 🗺️ **Mapeo:** Desglose de datos a nivel estatal basado en registros de INEGI.
+* 📂 **Big Data:** Procesamiento eficiente de registros históricos masivos.
+
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
 ---
 
