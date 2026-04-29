@@ -106,6 +106,19 @@
 
 ---
 
+#### 💳 [Fintech Data Intelligence Ecosystem](https://github.com/Yukiseip/Fintech-Data-Intelligence-Ecosystem) - Analytics Engine & Fraud Detection
+> Large-scale data ecosystem for financial transaction analysis and automated fraud detection.
+
+**Key Features:**
+* 🚀 **Big Data Processing:** High-performance data handling using Apache Spark.
+* 🛠️ **Workflow Automation:** Complex DAGs and pipeline orchestration with Apache Airflow.
+* 🛡️ **Fraud Intelligence:** Specialized modules for detecting anomalies and financial patterns.
+* 🏗️ **Scalable Architecture:** Multi-service environment integrated with Docker, Postgres, and Spark.
+
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![HCL](https://img.shields.io/badge/HCL-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+
+---
+
 #### 📈 [Dynamic Pricing System](https://github.com/Yukiseip/Dynami-Pricing-System) - Pricing Engine & Data Pipeline
 > End-to-end data engineering system for real-time price optimization.
 
