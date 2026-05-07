@@ -106,6 +106,19 @@
 
 ---
 
+#### 🤖 [Yukisei CV Engine](https://github.com/tu-usuario/yukisei-cv-engine) - Intelligent ATS Simulator
+> Advanced diagnostic platform for professional CVs with semantic analysis and AI-driven feedback.
+
+**Key Features:**
+* 📊 **ATS Scoring:** Deterministic evaluation across 4 dimensions: Keywords, Experience, Structure, and Readability.
+* 🧠 **LLM Enrichment:** Semantic analysis and actionable recommendations via Groq (LLaMA-3.3-70B).
+* 🔍 **Semantic Matching:** Advanced skill matching using Qdrant vector database and spaCy NLP.
+* 🛡️ **Enterprise Security:** Secure architecture with Rate Limiting, OWASP headers, and non-root Docker builds.
+
+**Stack:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
 #### 💳 [Fintech Data Intelligence Ecosystem](https://github.com/Yukiseip/Fintech-Data-Intelligence-Ecosystem) - Analytics Engine & Fraud Detection
 > Large-scale data ecosystem for financial transaction analysis and automated fraud detection.
 
