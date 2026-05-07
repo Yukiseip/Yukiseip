@@ -106,7 +106,7 @@
 
 ---
 
-#### 🤖 [Yukisei CV Engine](https://github.com/tu-usuario/yukisei-cv-engine) - Intelligent ATS Simulator
+#### 🤖 [Yukisei CV Engine](https://github.com/Yukiseip/CV-Engine.git) - Intelligent ATS Simulator
 > Advanced diagnostic platform for professional CVs with semantic analysis and AI-driven feedback.
 
 **Key Features:**
