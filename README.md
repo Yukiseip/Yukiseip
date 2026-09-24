@@ -120,6 +120,21 @@
 
 ---
 
+#### ☕ [Moze Café POS](https://github.com/Yukiseip/POS-Moze-Cafe) - Full-Stack Point of Sale & Management System
+> Full-stack POS platform for café operations, combining sales management, inventory control, cash register shifts, analytics, and secure administration.
+
+**Key Features:**
+* 🛒 **Point of Sale:** Order management for dine-in, takeaway, and delivery with multiple payment methods.
+* 📦 **Inventory Management:** Ingredient stock tracking, critical-level alerts, and recipe-based inventory deductions.
+* 📊 **Business Intelligence:** Real-time dashboards and reports for sales, peak hours, top products, and category performance.
+* 🔐 **Secure Authentication:** Stateless authentication and role-based authorization using Spring Security and JWT.
+* 🏗️ **Full-Stack Architecture:** React frontend integrated with a Spring Boot REST API and SQL Server database using JPA/Hibernate and Flyway.
+* 💵 **Cash Management:** Cash register shifts, cash reconciliation, payment tracking, and operational management.
+
+**Stack:** ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring%20Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+
+---
+
 #### 💳 [Fintech Data Intelligence Ecosystem](https://github.com/Yukiseip/Fintech-Data-Intelligence-Ecosystem) - Analytics Engine & Fraud Detection
 > Large-scale data ecosystem for financial transaction analysis and automated fraud detection.
 
