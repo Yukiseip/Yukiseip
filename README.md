@@ -2,31 +2,33 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/francisco-calvo-rodriguez-50ba66401/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Yukiseip-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <!-- Enlaces de contacto y perfiles -->
+  <a href="https://www.linkedin.com/in/francisco-calvo-rodriguez-50ba66401/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Yukiseip">
-    <img src="https://img.shields.io/badge/GITHUB-Yukiseip-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/Yukiseip" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.youtube.com/@Yukiseif/featured">
-    <img src="https://img.shields.io/badge/YOUTUBE-Yukiseif-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <a href="https://www.youtube.com/@Yukiseif/featured" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.yukisei.com/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <a href="https://www.yukisei.com/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
-  <br>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:tu-correo-real@dominio.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-306-008CBA?style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/badge/README-OTAKU_STYLE-A52A2A?style=for-the-badge" alt="Style">
-  <img src="https://img.shields.io/badge/DATA_&_AI-ENABLED-purple?style=for-the-badge" alt="Tech">
+  <!-- Contador dinámico de visitas (Hits real) y tags de estado -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYukiseip&count_bg=%2300F0FF&title_bg=%23181717&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/AESTHETIC-CYBERPUNK_%2F_ZEN-7928CA?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Aesthetic" />
+  <img src="https://img.shields.io/badge/DATA_%26_AI-ENABLED-00DF72?style=flat-square&logo=tensorflow&logoColor=white" alt="Data & AI" />
 
   <br><br>
 
+  <!-- Banner principal -->
   <p align="center">
     <img src="division.gif" width="100%" alt="Opening Banner" />
   </p>
@@ -103,6 +105,19 @@
 * 📱 **Responsive:** Full optimization for any device.
 
 **Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+---
+
+#### ✂️ [Kéo Salón-Studio](https://github.com/Yukiseip/Website-KeoStudio) — Landing Page & Motor de Reservas
+> Modern one-page landing page and smart step-by-step booking engine for an exclusive boutique salon.
+
+**Key Features:**
+- 📅 **Smart Booking Engine:** 3-step wizard with buffer calculation (10 min cleaning), 1:1 capacity management, and automatic closing limits.
+- 💬 **Instant Confirmation:** Automated pre-filled WhatsApp message generation ready for instant appointment booking.
+- 🎨 **Editorial Aesthetic:** Deep obsidian UI with champagne gold accents, glassmorphism header, and Cinzel typography.
+- 📸 **Reviews & Gallery:** Infinite auto-scrolling marquee with client transformations and real Google Maps feedback.
+
+**Stack:** ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
