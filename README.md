@@ -192,20 +192,27 @@
 ## 📈 Stats & Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yukiseip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yukiseip&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <!-- Stats Generales (Instancia Oficial y Estable) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yukiseip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8" alt="Yukiseip's GitHub Stats" />
+  
+  <!-- Lenguajes más usados -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukiseip&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Racha de contribuciones (Streak Stats Oficial - Gran estabilidad) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yukiseip&theme=tokyonight&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 Achievements & Activity
+## 🏆 Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yukiseip&theme=tokyonight" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yukiseip&theme=tokyonight" alt="Contribution Graph" />
+  <!-- Gráfico de actividad dinámico sin caídas de cuota -->
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Yukiseip%20Architecture&text2=Data%20Engineering%20%7C%20AI%20%7C%20Full%20Stack&width=800&height=180&theme=tokyo-night" alt="Header Banner" />
 </p>
 
 ---
