@@ -43,29 +43,31 @@
 
 ## 👨‍💻 About Me
 
-**Engineer with solid experience in the end-to-end data lifecycle:** from ingestion via ETL Pipelines to the implementation of **RAG (Retrieval-Augmented Generation)** systems and Machine Learning models. I specialize in building modern, secure, and scalable applications that integrate AI for process optimization. My goal is to create technology that scales with the same speed and power as a racer in the final stretch.
+**Systems & Software Engineer with 3+ years of hands-on experience building end-to-end, enterprise-ready solutions.** My core expertise bridges **Data Engineering, Applied AI, and Full Stack Architecture**: from architecting production ETL pipelines and training machine learning models to deploying scalable **Retrieval-Augmented Generation (RAG)** systems and intelligent agents. 
+
+I leverage AI not just as an end product, but as an engineering multiplier to automate workflows, accelerate development lifecycles, and optimize business processes. Passionate about craftsmanship, I blend rigorous backend security standards with fluid, high-performance UI/UX design—delivering reliable software that scales seamlessly under production workloads.
 
 <p align="center">
   <img src="about.gif" width="220" alt="Work Divider" />
 </p>
 
 <details open>
-<summary><b>🎯 Professional Focus (Big Data/AI Core)</b></summary>
+<summary><b>🎯 Professional Focus & Capabilities</b></summary>
 <ul>
-  <li><b>Big Data & Analytics:</b> Massive record processing and real-time query optimization.</li>
-  <li><b>Applied AI:</b> Intelligent agents, NLP, and LLM orchestration.</li>
-  <li><b>ETL Pipelines:</b> Design and deployment of robust and scalable data flows.</li>
-  <li><b>Software Architecture:</b> Full Stack solutions with enterprise-level integrity.</li>
+  <li><b>Applied AI & LLM Systems:</b> Fine-tuning models, building advanced RAG architectures, prompt engineering, and orchestrating autonomous multi-agent workflows.</li>
+  <li><b>Data Engineering & Analytics:</b> High-throughput ETL/ELT pipelines, distributed processing, data modeling, and performance tuning for analytical databases.</li>
+  <li><b>Interactive UI/UX & Web Development:</b> Modern, responsive full-stack interfaces with strong emphasis on accessibility, state management, and fluid animations.</li>
+  <li><b>Game Development & Logic:</b> Systems design, gameplay mechanics programming, state-machine architectures, and performance optimization.</li>
 </ul>
 </details>
 
 <details>
-<summary><b>🌸 Personal Interests (Sakura-Tech)</b></summary>
+<summary><b>🎮 Hobbies & Creative Pursuits</b></summary>
 <ul>
-  <li>🌸 Minimalist **Zen-Tech** and Neon aesthetics.</li>
-  <li>📚 Manga and Anime enthusiast (**Mushoku Tensei, Re:Zero, SAO, and Uma Musume**).</li>
-  <li>🎹 Art and Manual Calligraphy.</li>
-  <li>🎮 Strategic Gaming.</li>
+  <li>🎬 <b>Content Creation:</b> Producing tech and creative video content for YouTube.</li>
+  <li>📚 <b>Anime & Manga:</b> Appreciating deep storytelling and world-building (*Mushoku Tensei, Re:Zero, SAO, Uma Musume*).</li>
+  <li>🎹 <b>Piano & Calligraphy:</b> Practicing manual arts that reinforce precision, focus, and discipline.</li>
+  <li>🕹️ <b>Video Games:</b> Tactical RPGs, strategy games, and interactive digital worlds.</li>
 </ul>
 </details>
 
