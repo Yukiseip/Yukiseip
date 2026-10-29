@@ -22,7 +22,7 @@
   <br><br>
 
   <!-- Contador dinámico de visitas (Hits real) y tags de estado -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYukiseip&count_bg=%2300F0FF&title_bg=%23181717&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Yukiseip&label=PROFILE%20VIEWS&labelColor=181717&countColor=00F0FF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/AESTHETIC-CYBERPUNK_%2F_ZEN-7928CA?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Aesthetic" />
   <img src="https://img.shields.io/badge/DATA_%26_AI-ENABLED-00DF72?style=flat-square&logo=tensorflow&logoColor=white" alt="Data & AI" />
 
