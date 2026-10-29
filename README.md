@@ -74,12 +74,12 @@
 ## 🛠️ Tech Stack
 
 ### **Data & AI (The Core)**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) ![ScikitLearn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn) ![Model_Development](https://img.shields.io/badge/-Model_Development-blue?style=flat) ![LLM](https://img.shields.io/badge/-LLM_Integration-551155?style=flat) ![RAG](https://img.shields.io/badge/-RAG-orange?style=flat) ![ETL](https://img.shields.io/badge/-ETL_Pipelines-8CAAE6?style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-orange?style=flat) ![LLMs](https://img.shields.io/badge/-LLMs-551155?style=flat) ![ETL](https://img.shields.io/badge/-ETL_Pipelines-8CAAE6?style=flat)
 
 <br>
 
-### **Backend & Security**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![REST_GraphQL](https://img.shields.io/badge/-REST/GraphQL-teal?style=flat) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens) ![OWASP](https://img.shields.io/badge/-OWASP-E32034?style=flat)
+### **Backend & Architecture**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![REST_APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat)
 
 <br>
 
@@ -89,7 +89,7 @@
 <br>
 
 ### **Databases & DevOps**
-![SQL](https://img.shields.io/badge/-SQL-purple?style=flat) ![NoSQL](https://img.shields.io/badge/-NoSQL-444444?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-E38C00?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
